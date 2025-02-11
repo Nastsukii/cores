@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    height: 50vh;
+    margin: 0;
+    background-color: #f4f4f4;
+    flex-wrap: wrap;
+    text-align: left;
+}
+
+.cor {
+    width: 25%;
+    height: 50%;
+    margin: 1%;
+    display: flex;
+    color: white;
+    font-size: 15px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px rgb(0, 0, 0);
+    flex-wrap: wrap;
+    padding-left: 2%;
+}
+#cor1 { background-color: #FF5733; }
+#cor2 { background-color: #33FF57; }
+#cor3 { background-color: #3357FF; }
+#cor4 { background-color: #F1C40F; }
+#cor5 { background-color: #FFF34F; }
+#cor6 { background-color: #4F79A6; }
+#cor7 { background-color: #72F431; }
+#cor8 { background-color: #FF00FF; }
+#cor9 { background-color: #FF1493; }
+#cor10 { background-color: #00FFAA; }
+#cor11 { background-color: #7B68EE; }
+#cor12 { background-color: #FF4500; }
+#cor13 { background-color: #00CED1; }
+#cor14 { background-color: #ADFF2F; }
+#cor15 { background-color: #FF69B4; }
+#cor16 { background-color: #4B0082; }
+#cor17 { background-color: #20B2AA; }
+#cor18 { background-color: #DA70D6; }
+#cor19 { background-color: #808000; }
+#cor20 { background-color: #6A5ACD; }
+#cor21 { background-color: #8A2BE2; }
+#cor22 { background-color: #DEB887; }
+#cor23 { background-color: #5F9EA0; }
+#cor24 { background-color: #7FFF00; }
+#cor25 { background-color: #6495ED; }
+#cor26 { background-color: #DC143C; }
+#cor27 { background-color: #00FFFF; }
+#cor28 { background-color: #00008B; }
+#cor29 { background-color: #B8860B; }
+#cor30 { background-color: #006400; }
+#cor31 { background-color: #BDB76B; }
+#cor32 { background-color: #8B008B; }
+#cor33 { background-color: #556B2F; }
+#cor34 { background-color: #FF8C00; }
+#cor35 { background-color: #9932CC; }
+#cor36 { background-color: #8B0000; }
+#cor37 { background-color: #E9967A; }
+#cor38 { background-color: #8FBC8F; }
+#cor39 { background-color: #483D8B; }
+#cor40 { background-color: #2F4F4F; }
+#cor41 { background-color: #00FA9A; }
+#cor42 { background-color: #FFD700; }
+#cor43 { background-color: #008080; }
+#cor44 { background-color: #D2691E; }
+#cor45 { background-color: #FF7F50; }
+#cor46 { background-color: #1E90FF; }
+#cor47 { background-color: #B22222; }
+#cor48 { background-color: #FFDEAD; }
+#cor49 { background-color: #228B22; }
+#cor50 { background-color: #DAA520; }
